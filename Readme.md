@@ -10,9 +10,9 @@ Each folder in the repository corresponds to one of the processor architectures,
 
 ## Folder Structure
 The repository is organized into three main folders:
-- `Single_Cycle_Processor/`: Contains the Verilog modules and testbenches for the Single Cycle MIPS processor.
-- `Multicycle_Processor/`: Contains the Verilog modules and testbenches for the Multicycle MIPS processor.
-- `Pipeline_Processor/`: Contains the Verilog modules for the Pipeline MIPS processor (no testbenches).
+- `Single Cycle`: Contains the Verilog modules and testbenches for the Single Cycle MIPS processor.
+- `Multi Cycle/`: Contains the Verilog modules and testbenches for the Multicycle MIPS processor.
+- `Pipeline/`: Contains the Verilog modules for the Pipeline MIPS processor (no testbenches).
 
 ---
 
